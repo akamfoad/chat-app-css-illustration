@@ -309,6 +309,7 @@ body {
 
 .simple-booking > p {
   font-size: 1rem;
+  line-height: 1.5rem;
   color: var(--Dark-Grayish-Violet);
 }
 
